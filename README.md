@@ -2,9 +2,11 @@
 
 ### Requirements
 
-1.Java
-2.Netbeans
-3.Mysql
+Java
+
+Netbeans
+
+Mysql
 
 ### Install
 
@@ -17,3 +19,8 @@ execute.bat
 ### Todo
 
 Use SQLite instead of mysql for the database
+
+### Resources
+
+https://netbeans.apache.org/download/
+

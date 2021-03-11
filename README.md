@@ -10,8 +10,6 @@
 
 git clone https://github.com/andreboyce/nade_project.git
 
-git clone
-
 ### Run
 
 execute.bat
